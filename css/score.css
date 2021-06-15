@@ -6,9 +6,9 @@
 
 body {
   /* background-image: url("../images/bg\ imag.jpg"); */
-  background-color:#faf1e6;
+  background-color: #faf1e6;
 }
-  
+
 /* header {
       border-top: 1px solid yellowgreen;
       min-height: 10vh;
@@ -28,7 +28,6 @@ nav {
   color: whitesmoke;
   position: fixed;
   text-decoration: none;
-
 }
 nav .logo {
   width: 10%;
@@ -53,6 +52,8 @@ main .tabl {
   justify-content: space-around;
   align-items: center;
 }
-main table th,tr,td {
+main table th,
+tr,
+td {
   text-align: center;
 }
