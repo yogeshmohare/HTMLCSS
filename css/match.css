@@ -6,7 +6,7 @@
 
 body {
   /* background-image: url("../images/bg\ imag.jpg"); */
-  background-color:#faf1e6;
+  background-color: #faf1e6;
 }
 
 /* header {
@@ -28,7 +28,6 @@ nav {
   color: whitesmoke;
   position: fixed;
   text-decoration: none;
-
 }
 nav .logo {
   width: 10%;
@@ -52,5 +51,4 @@ section {
   margin: 24px;
 }
 ul li {
-  
 }

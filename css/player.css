@@ -4,8 +4,8 @@
   box-sizing: border-box;
 }
 
-body{
-  background-color:#faf1e6;
+body {
+  background-color: #faf1e6;
 }
 
 /* header {
@@ -27,7 +27,6 @@ nav {
   color: whitesmoke;
   position: fixed;
   text-decoration: none;
-
 }
 nav .logo {
   width: 10%;
